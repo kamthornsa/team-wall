@@ -1,0 +1,10 @@
+// ไฟล์ของ "ที่นั่ง 00" (ตัวอย่างจากอาจารย์)
+// นักศึกษาแต่ละคนจะสร้างไฟล์ของตัวเองเลียนแบบโครงสร้างนี้
+export default {
+  seat: "12",                              // เลขที่นั่ง (2 หลัก)
+  name: "Thanawat Boonrod",                     // ชื่อที่จะแสดงบนการ์ด
+  emoji: "🧑‍🏫",                            // อีโมจิประจำตัว 1 ตัว
+  accent: "#cd99eb",                       // สีขอบบนการ์ดของตัวเอง
+  motto: "Commit add name Thanawat",
+  github: "https://github.com/thanawatbo-ops"     // ลิงก์ GitHub ของตัวเอง
+};
