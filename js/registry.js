@@ -11,45 +11,45 @@ import std00 from "../data/members/std00.js";
 // -- ที่นั่ง 01 --
 // import std01 from "../data/members/std01.js";
 // -- ที่นั่ง 02 --
-// import std02 from "../data/members/std02.js";
+import std02 from "../data/members/std02.js";
 // -- ที่นั่ง 03 --
-// import std03 from "../data/members/std03.js";
+import std03 from "../data/members/std03.js";
 // -- ที่นั่ง 04 --
-// import std04 from "../data/members/std04.js";
+import std04 from "../data/members/std04.js";
 // -- ที่นั่ง 05 --
-// import std05 from "../data/members/std05.js";
+import std05 from "../data/members/std05.js";
 // -- ที่นั่ง 06 --
-// import std06 from "../data/members/std06.js";
+import std06 from "../data/members/std06.js";
 // -- ที่นั่ง 07 --
-// import std07 from "../data/members/std07.js";
+import std07 from "../data/members/std07.js";
 // -- ที่นั่ง 08 --
-// import std08 from "../data/members/std08.js";
+import std08 from "../data/members/std08.js";
 // -- ที่นั่ง 09 --
-// import std09 from "../data/members/std09.js";
+import std09 from "../data/members/std09.js";
 // -- ที่นั่ง 10 --
-// import std10 from "../data/members/std10.js";
+import std10 from "../data/members/std10.js";
 // -- ที่นั่ง 11 --
-// import std11 from "../data/members/std11.js";
+import std11 from "../data/members/std11.js";
 // -- ที่นั่ง 12 --
-// import std12 from "../data/members/std12.js";
+import std12 from "../data/members/std12.js";
 // -- ที่นั่ง 13 --
-// import std13 from "../data/members/std13.js";
+import std13 from "../data/members/std13.js";
 // -- ที่นั่ง 14 --
-// import std14 from "../data/members/std14.js";
+import std14 from "../data/members/std14.js";
 // -- ที่นั่ง 15 --
-// import std15 from "../data/members/std15.js";
+import std15 from "../data/members/std15.js";
 // -- ที่นั่ง 16 --
-// import std16 from "../data/members/std16.js";
+import std16 from "../data/members/std16.js";
 // -- ที่นั่ง 17 --
-// import std17 from "../data/members/std17.js";
+import std17 from "../data/members/std17.js";
 // -- ที่นั่ง 18 --
-// import std18 from "../data/members/std18.js";
+import std18 from "../data/members/std18.js";
 // -- ที่นั่ง 19 --
-// import std19 from "../data/members/std19.js";
+import std19 from "../data/members/std19.js";
 // -- ที่นั่ง 20 --
-// import std20 from "../data/members/std20.js";
+import std20 from "../data/members/std20.js";
 // -- ที่นั่ง 21 --
-// import std21 from "../data/members/std21.js";
+import std21 from "../data/members/std21.js";
 // -- ที่นั่ง 22 --
 // import std22 from "../data/members/std22.js";
 // -- ที่นั่ง 23 --
